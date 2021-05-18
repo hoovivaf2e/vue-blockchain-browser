@@ -1,4 +1,4 @@
-# my-project-3
+# vue-blockchain-browser
 
 ## Project setup
 ```
